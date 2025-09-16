@@ -9,7 +9,7 @@ The goal of this repository is to track my learning journey and build a portfoli
 
 ## 🔑 Contents
 
-- [01 - Pandas Agriculture Project](./01 Pandas Agriculture Project)  
+- [01 - Pandas Agriculture Project](./01-Pandas-Agriculture-Project)  
   *Exploring and cleaning agricultural survey data using Pandas.*
 
 *(More assignments will be added weekly as the course progresses!)*
